@@ -1,0 +1,4 @@
+# Simple Viral Outbreak Netlogo Simulation
+This project showcases a simple Netlogo simulation regarding the spread of a viral outbreak (like that of COVID-19) within a small population. The simulation captures interaction between the agents through transmission of the virus and also considers quarantining and vaccinations by implementing if an agent is considerate (quarantines if they are infected) and when agents when can up to two vaccinations respectively (or if an agent is antivax).
+
+Please read 'Model Report.pdf' to read the experimental design process, the results that followed from the experiment, as well as my discussion on the project. For more information on the simulation please read 'ODD Description.pdf' for its overview, design concepts, and details.
